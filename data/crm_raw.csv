@@ -1,0 +1,51 @@
+Cust_ID,Cust Name ,Email , Phone , Country , State , City , Prodct_ID , Prodct Name , Cat , Price , Qty , Ord_ID , Ord_Date , SalesRep_ID , SalesRep Name , Region
+C001, Frank Miller ,frankmiller@example.com,555-4736,Usa,NY,Toronto,E108,Amazon Echo Dot,Smart Home,624,10,O5000,12/26/25,SR05, Emily Davis ,Central
+C002, David Brown ,davidbrown@example.com,555-2128,Canada,ON,Los Angeles,E105,LG OLED TV,Home Entertainment,802,2,O5001,2025-12-15,SR01, Alice  Smith ,West
+C003, Mark Lee ,marklee@example.com,555-1351,Canada,TX,Dallas,E101,Apple iPhone 15,Smartphone,1091,3,O5002,2025-12-12,SR05, Emily Davis ,Central
+C004, John  Doe ,johndoe@example.com,555-6550,CANADA,ON,Toronto,E105,LG OLED TV,Home Entertainment,,2,O5003,2025/12/20,SR01, Alice  Smith ,West
+C005, Bob Johnson ,bobjohnson@example.com,555-5096,Usa,FL,Miami,E107,PlayStation 5 Console,Gaming,,3,O5004,12/23/25,SR04, David Brown ,East
+C006, Bob Johnson ,bobjohnson@example.com,555-2963,usa,FL,Miami,E106,Canon EOS R10 Camera,Camera,,8,O5005,12/18/25,SR02, Bob Johnson ,South
+C007, Jane Roe ,janeroe@example.com,555-5177,Usa,CA,Los Angeles,E110,GoPro Hero 12,Camera,,7,O5006,2025-12-18,SR01, Alice  Smith ,West
+C008, John  Doe ,johndoe@example.com,555-4277,Usa,ON,Miami,E110,GoPro Hero 12,Camera,,7,O5007,2025/12/27,SR04, David Brown ,East
+C009, Alice Smith ,alicesmith@example.com,555-6665,US,TX,Toronto,E108,Amazon Echo Dot,Smart Home,78,9,O5008,12/19/25,SR03, Carol White ,North
+C010, Grace Wilson ,gracewilson@example.com,555-9885,Usa,FL,New York,E110,GoPro Hero 12,Camera,1460,3,O5009,12/15/25,SR05, Emily Davis ,Central
+C011, Jane Roe ,janeroe@example.com,555-8299,Usa,NY,Dallas,E103,Dell XPS 13 Laptop,Laptop,,8,O5010,2025/12/28,SR03, Carol White ,North
+C012, John  Doe ,johndoe@example.com,555-1342,Usa,CA,Dallas,E103,Dell XPS 13 Laptop,Laptop,,3,O5011,2025-12-10,SR02, Bob Johnson ,South
+C013, Jane Roe ,janeroe@example.com,555-5040,US,ON,Toronto,E104,Sony WH-1000XM5 Headphones,Audio,,4,O5012,2025/12/10,SR03, Carol White ,North
+C014, Carol White ,carolwhite@example.com,555-8515,CANADA,NY,Toronto,E110,GoPro Hero 12,Camera,,5,O5013,12/28/25,SR04, David Brown ,East
+C015, Emily Davis ,emilydavis@example.com,555-6323,usa,FL,Dallas,E109,Apple AirPods Pro,Audio,1070,5,O5014,12/24/25,SR03, Carol White ,North
+C016, David Brown ,davidbrown@example.com,555-6573,US,TX,Toronto,E101,Apple iPhone 15,Smartphone,,4,O5015,2025-12-21,SR02, Bob Johnson ,South
+C017, Mark Lee ,marklee@example.com,555-4595,Usa,FL,Toronto,E106,Canon EOS R10 Camera,Camera,1124,4,O5016,2025/12/23,SR01, Alice  Smith ,West
+C018, Grace Wilson ,gracewilson@example.com,555-1133,usa,FL,Dallas,E103,Dell XPS 13 Laptop,Laptop,238,4,O5017,12/16/25,SR02, Bob Johnson ,South
+C019, Grace Wilson ,gracewilson@example.com,555-7855,Canada,CA,New York,E106,Canon EOS R10 Camera,Camera,,10,O5018,2025/12/23,SR03, Carol White ,North
+C020, Frank Miller ,frankmiller@example.com,555-4447,US,ON,New York,E105,LG OLED TV,Home Entertainment,295,4,O5019,12/10/25,SR01, Alice  Smith ,West
+C021, Bob Johnson ,bobjohnson@example.com,555-3984,Canada,CA,Dallas,E110,GoPro Hero 12,Camera,,8,O5020,2025/12/14,SR01, Alice  Smith ,West
+C022, Carol White ,carolwhite@example.com,555-6895,CANADA,TX,Los Angeles,E107,PlayStation 5 Console,Gaming,,4,O5021,12/14/25,SR04, David Brown ,East
+C023, Jane Roe ,janeroe@example.com,555-2582,CANADA,FL,Toronto,E105,LG OLED TV,Home Entertainment,1028,4,O5022,12/21/25,SR03, Carol White ,North
+C024, Mark Lee ,marklee@example.com,555-3483,US,ON,Toronto,E108,Amazon Echo Dot,Smart Home,,2,O5023,2025/12/25,SR01, Alice  Smith ,West
+C025, Carol White ,carolwhite@example.com,555-8137,US,TX,Dallas,E107,PlayStation 5 Console,Gaming,797,10,O5024,12/18/25,SR05, Emily Davis ,Central
+C026, Jane Roe ,janeroe@example.com,555-8722,Canada,CA,Toronto,E101,Apple iPhone 15,Smartphone,1123,3,O5025,2025-12-16,SR03, Carol White ,North
+C027, David Brown ,davidbrown@example.com,555-9377,CANADA,ON,Toronto,E107,PlayStation 5 Console,Gaming,,7,O5026,2025-12-28,SR02, Bob Johnson ,South
+C028, Grace Wilson ,gracewilson@example.com,555-6479,CANADA,CA,Dallas,E110,GoPro Hero 12,Camera,,9,O5027,2025-12-15,SR01, Alice  Smith ,West
+C029, Jane Roe ,janeroe@example.com,555-2315,usa,ON,Dallas,E110,GoPro Hero 12,Camera,,7,O5028,2025-12-16,SR02, Bob Johnson ,South
+C030, David Brown ,davidbrown@example.com,555-4130,US,NY,New York,E110,GoPro Hero 12,Camera,567,9,O5029,2025/12/21,SR01, Alice  Smith ,West
+C031, Carol White ,carolwhite@example.com,555-7510,Canada,FL,Toronto,E107,PlayStation 5 Console,Gaming,805,9,O5030,2025/12/25,SR02, Bob Johnson ,South
+C032, John  Doe ,johndoe@example.com,555-5145,CANADA,NY,New York,E110,GoPro Hero 12,Camera,,9,O5031,2025/12/23,SR03, Carol White ,North
+C033, Carol White ,carolwhite@example.com,555-9051,usa,TX,Miami,E104,Sony WH-1000XM5 Headphones,Audio,364,7,O5032,2025/12/11,SR05, Emily Davis ,Central
+C034, Bob Johnson ,bobjohnson@example.com,555-8424,CANADA,ON,Toronto,E105,LG OLED TV,Home Entertainment,249,2,O5033,2025-12-10,SR04, David Brown ,East
+C035, John  Doe ,johndoe@example.com,555-5735,usa,ON,Dallas,E103,Dell XPS 13 Laptop,Laptop,,1,O5034,12/23/25,SR04, David Brown ,East
+C036, Mark Lee ,marklee@example.com,555-5143,usa,CA,New York,E108,Amazon Echo Dot,Smart Home,,3,O5035,2025/12/25,SR03, Carol White ,North
+C037, Alice Smith ,alicesmith@example.com,555-4488,CANADA,CA,Miami,E105,LG OLED TV,Home Entertainment,,9,O5036,2025/12/17,SR03, Carol White ,North
+C038, Carol White ,carolwhite@example.com,555-6232,usa,ON,Dallas,E105,LG OLED TV,Home Entertainment,,3,O5037,2025-12-14,SR05, Emily Davis ,Central
+C039, Grace Wilson ,gracewilson@example.com,555-5313,Usa,ON,New York,E101,Apple iPhone 15,Smartphone,,6,O5038,12/18/25,SR04, David Brown ,East
+C040, Bob Johnson ,bobjohnson@example.com,555-6327,Canada,CA,Toronto,E106,Canon EOS R10 Camera,Camera,,6,O5039,2025-12-20,SR04, David Brown ,East
+C041, Frank Miller ,frankmiller@example.com,555-5235,Usa,CA,Los Angeles,E105,LG OLED TV,Home Entertainment,1261,6,O5040,2025-12-28,SR04, David Brown ,East
+C042, John  Doe ,johndoe@example.com,555-4067,Canada,TX,Dallas,E103,Dell XPS 13 Laptop,Laptop,,6,O5041,2025-12-17,SR03, Carol White ,North
+C043, Emily Davis ,emilydavis@example.com,555-7115,US,ON,Dallas,E106,Canon EOS R10 Camera,Camera,,3,O5042,2025-12-14,SR04, David Brown ,East
+C044, Frank Miller ,frankmiller@example.com,555-1935,CANADA,NY,Toronto,E105,LG OLED TV,Home Entertainment,,8,O5043,2025-12-21,SR04, David Brown ,East
+C045, Grace Wilson ,gracewilson@example.com,555-9815,Usa,TX,Toronto,E101,Apple iPhone 15,Smartphone,,6,O5044,12/13/25,SR01, Alice  Smith ,West
+C046, Frank Miller ,frankmiller@example.com,555-5792,US,ON,Los Angeles,E101,Apple iPhone 15,Smartphone,480,3,O5045,12/10/25,SR01, Alice  Smith ,West
+C047, David Brown ,davidbrown@example.com,555-6108,usa,TX,Toronto,E101,Apple iPhone 15,Smartphone,229,5,O5046,2025-12-11,SR01, Alice  Smith ,West
+C048, David Brown ,davidbrown@example.com,555-4171,Canada,CA,New York,E110,GoPro Hero 12,Camera,,4,O5047,2025-12-27,SR02, Bob Johnson ,South
+C049, Emily Davis ,emilydavis@example.com,555-8871,CANADA,FL,Dallas,E108,Amazon Echo Dot,Smart Home,,4,O5048,2025-12-15,SR01, Alice  Smith ,West
+C050, John  Doe ,johndoe@example.com,555-2754,usa,ON,Los Angeles,E109,Apple AirPods Pro,Audio,,6,O5049,12/13/25,SR01, Alice  Smith ,West
