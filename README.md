@@ -1,7 +1,12 @@
 # 🚀 Databricks End-to-End CRM Analytics Pipeline
- An end-to-end pipeline on Databricks using PySpark and Delta Lake to process sales data into Bronze, Silver, and Gold layers following the Medallion Architecture for analytics and reporting.
 
-🛠 Tech Stack
+This project demonstrates an end-to-end data pipeline for CRM analytics using Databricks. It covers ingestion, transformation, and analytics layers following the Medallion Architecture (Bronze → Silver → Gold).
+The pipeline is designed to:
+   -  Ingest raw CRM data from multiple sources.
+   -  Cleanse and standardize data for analytics.
+   -  Generate curated datasets for reporting and insights.
+---
+## 🛠 Tech Stack
 - Databricks
 - PySpark
 - Delta Lake
@@ -21,12 +26,33 @@ Sales Data → Bronze → Silver → Gold
 - Aggregate for analytics in Gold.
 - Validate outputs using Databricks SQL.
 ---
+🚀 Getting Started
 
-## 📂 Folder Structure
-├
-├── README.md
+Clone the Repository
+Shellgit clone https://github.com/Prane23/Databricks-End-to-End-CRM-Analytics-Pipeline.gitShow more lines
+
+- 1 Import Notebooks into your Databricks workspace.
+- 2 Configure/run cluster 
+- 3 Run ETL Pipeline:
+  - Bronze: Raw data ingestion
+  - Silver: Data cleansing
+  - Gold: Analytics-ready tables
+- 4 Schedule Jobs using /jobs configs.
 ---
-
+## 📂 Folder Structure
+```
+project-root/
+│
+├── Initialize_lakehouse/          # Initialize_lakehouse script Initialze_lakehouse.ipynb
+├── bronze/                        # bronze layer bronze_layer.ipynb script
+├── silver/                        # silver layer silver.ipynb script
+├── gold/                          # gold layer gold.ipynb script
+├── docs/                          # Documentation and diagrams
+├── jobs/                          # 
+├── .databricks/                   # Internal Databricks metadata
+└── README.md                      # Project overview
+```
+---
 ## 🌟 Future Enhancements
 
 - Add data quality monitoring.
