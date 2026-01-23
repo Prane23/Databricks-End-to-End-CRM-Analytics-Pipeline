@@ -47,7 +47,7 @@ project-root/
 ├── bronze/                        # bronze layer bronze_layer.ipynb script
 ├── silver/                        # silver layer silver.ipynb script
 ├── gold/                          # gold layer gold.ipynb script
-├── docs/                          # Documentation and diagrams
+├── data/                          # sales raw data (csv file)
 ├── jobs/                          # 
 ├── .databricks/                   # Internal Databricks metadata
 └── README.md                      # Project overview
