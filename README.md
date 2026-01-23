@@ -1,4 +1,4 @@
-# 🚀 Databricks End-to-End CRM Analytics Pipeline
+# ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange?logo=databricks) Databricks End-to-End CRM Analytics Pipeline
 
 This project demonstrates an end-to-end data pipeline for CRM analytics using Databricks. It covers ingestion, transformation, and analytics layers following the Medallion Architecture (Bronze → Silver → Gold).
 The pipeline is designed to:
