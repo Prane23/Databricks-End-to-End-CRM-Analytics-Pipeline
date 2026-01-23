@@ -71,7 +71,7 @@ In Databricks, open a notebook.
    - Regularly sync changes to avoid conflicts.
 ---
 ## Create visualization using databrick dashboard 
-<img width="1709" height="920" alt="image" src="https://github.com/user-attachments/assets/9f4ff0fd-51e5-439d-9170-3bf82158baf2" />
+<img width="1716" height="919" alt="image" src="https://github.com/user-attachments/assets/3ff6cb2d-be27-4f03-a5cc-1ccf577d7ae9" />
 
 ---
 ## 🌟 Future Enhancements
