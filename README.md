@@ -70,8 +70,11 @@ In Databricks, open a notebook.
    - se feature branches for development.
    - Regularly sync changes to avoid conflicts.
 ---
-## 🌟 Future Enhancements
+## Create visualization using databrick dashboard 
+<img width="1709" height="920" alt="image" src="https://github.com/user-attachments/assets/9f4ff0fd-51e5-439d-9170-3bf82158baf2" />
 
+---
+## 🌟 Future Enhancements
 - Add data quality monitoring.
 - Implement Slowly Changing Dimensions (SCD).
-- Integrate BI tools for visualization.
+
