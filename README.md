@@ -29,7 +29,7 @@ Sales Data → Bronze → Silver → Gold
 🚀 Getting Started
 
 Clone the Repository
-Shellgit clone https://github.com/Prane23/Databricks-End-to-End-CRM-Analytics-Pipeline.gitShow more lines
+git clone https://github.com/Prane23/Databricks-End-to-End-CRM-Analytics-Pipeline.git
 
 - 1 Import Notebooks into your Databricks workspace.
 - 2 Configure/run cluster 
