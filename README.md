@@ -70,7 +70,13 @@ In Databricks, open a notebook.
    - se feature branches for development.
    - Regularly sync changes to avoid conflicts.
 ---
-## Create visualization using databrick dashboard 
+## 🔗 Create and schedule the job using databrick 
+<img width="1611" height="1047" alt="image" src="https://github.com/user-attachments/assets/18e06985-29e8-46b0-9ee1-89cace8887ef" />
+
+## 🔗 Monitor and check the status of the job
+<img width="1615" height="947" alt="image" src="https://github.com/user-attachments/assets/ca1f0cd9-e45c-4823-a831-5fbcf2f3691a" />
+
+## 🔗 Create visualization using databrick dashboard 
 <img width="1716" height="919" alt="image" src="https://github.com/user-attachments/assets/3ff6cb2d-be27-4f03-a5cc-1ccf577d7ae9" />
 
 ---
