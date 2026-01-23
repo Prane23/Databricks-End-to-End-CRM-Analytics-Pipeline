@@ -52,6 +52,23 @@ project-root/
 ├── .databricks/                   # Internal Databricks metadata
 └── README.md                      # Project overview
 ```
+
+## 🔗 Configure Git Integration in Databricks
+To keep your notebooks and scripts version-controlled and synced with GitHub:
+
+Enable Git Integration in Databricks:
+
+- Go to workspace → create git folder
+- Select Git Provider (e.g., GitHub).
+- Generate a Personal Access Token from GitHub and paste it in Databricks.
+
+<img width="1200" height="563" alt="image" src="https://github.com/user-attachments/assets/6c9ca1dd-53ca-448e-a53b-dab12f0ace76" />
+
+In Databricks, open a notebook.
+- Add a commit message and push directly to GitHub.
+- Best Practice:
+   - se feature branches for development.
+   - Regularly sync changes to avoid conflicts.
 ---
 ## 🌟 Future Enhancements
 
