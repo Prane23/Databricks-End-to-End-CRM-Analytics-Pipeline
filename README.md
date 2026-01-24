@@ -1,22 +1,40 @@
 # ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange?logo=databricks) Databricks End-to-End CRM Analytics Pipeline
 
-This project demonstrates an end-to-end data pipeline for CRM analytics using Databricks. It covers ingestion, transformation, and analytics layers following the Medallion Architecture (Bronze → Silver → Gold).
+This project demonstrates an end-to-end Customer Relationship Management (CRM) analytics pipeline built on Databricks. It covers the entire lifecycle of data processing, from ingestion to visualization, leveraging Apache Spark, Delta Lake, and Databricks notebooks for scalable and efficient analytics.
 The pipeline is designed to:
-   -  Ingest raw CRM data from multiple sources.
-   -  Cleanse and standardize data for analytics.
-   -  Generate curated datasets for reporting and insights.
+
+Ingest raw CRM data from csv file.
+- Perform data cleaning, transformation, and enrichment.
+- Store processed data in Delta tables for reliability and performance.
+- Generate actionable insights through advanced analytics and visualization.
+
+## ✅ Features
+-  Data Ingestion: Load raw CRM data from CSV/Parquet file or external sources.
+-  Data Transformation: Apply Spark-based transformations for cleaning and feature engineering.
+-  Delta Lake Integration: Ensure ACID transactions and versioning for data reliability.
+-  Analytics & Visualization: Build dashboards and reports for customer segmentation, churn prediction, and revenue analysis.
+-  Scalable Architecture: Designed for large-scale CRM datasets using Databricks clusters.
 ---
 ## 🛠 Tech Stack
 - Databricks
+- Apache Spark
 - PySpark
 - Delta Lake
 - Databricks SQL
 ---
-## 🏗 Architecture
-Sales Data → Bronze → Silver → Gold
-- Bronze: Raw sales data
-- Silver: Cleaned and standardized data
-- Gold: Aggregated data for business insights
+## 🏗️ Architecture
+The pipeline consists of the following stages:
+1. Raw Data Layer
+   - Source: CRM system exports (CSV)
+   - Storage: Databricks File System (DBFS)
+2. Bronze Layer
+   - Raw ingestion into Delta tables.
+3. Silver Layer
+   - Data cleaning and transformation (handling nulls, duplicates, normalization).
+4. Gold Layer
+   - Aggregated and enriched data for analytics and reporting.
+5. Visualization
+   - Dashboards using Databricks SQL or integration with BI tools (Power BI/Tableau).
 
 ---
 ## 🔄 Workflow
@@ -78,7 +96,7 @@ In Databricks, open a notebook.
 
 <img width="1400" height="951" alt="image" src="https://github.com/user-attachments/assets/b90ea7bb-0c4b-45ac-ba35-0b356179ec7e" />
 
-## 🔗 Create visualization using databrick dashboard 
+## 📊 Create visualization using databrick dashboard 
 <img width="1716" height="919" alt="image" src="https://github.com/user-attachments/assets/3ff6cb2d-be27-4f03-a5cc-1ccf577d7ae9" />
 
 ---
